@@ -129,6 +129,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.winenv
+.cygenv
+.nixenv
 
 # Spyder project settings
 .spyderproject
